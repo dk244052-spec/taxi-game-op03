@@ -38,5 +38,6 @@
 
 
 USE CASE Диаграмма
-<img width="441" height="491" alt="use_case" src="https://github.com/user-attachments/assets/6ebe2469-6335-4b14-b515-e55a3fbc831d" />
+
+<img width="669" height="635" alt="Снимок экрана 2026-03-16 000801" src="https://github.com/user-attachments/assets/22c97af6-3304-47ea-88f4-c80781055005" />
 
