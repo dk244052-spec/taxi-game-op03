@@ -37,7 +37,7 @@
 - Выход из игры по клавише q
 
 
-USE CASE Диаграмма
+USE CASE диаграмма
 
 <img width="669" height="635" alt="Снимок экрана 2026-03-16 000801" src="https://github.com/user-attachments/assets/22c97af6-3304-47ea-88f4-c80781055005" />
 
