@@ -39,3 +39,9 @@
 
 # USE CASE ДИАГРАММА
 <img width="669" height="635" alt="Снимок экрана 2026-03-16 000801" src="https://github.com/user-attachments/assets/22c97af6-3304-47ea-88f4-c80781055005" />
+
+
+
+
+<img width="823" height="744" alt="image" src="https://github.com/user-attachments/assets/2d9ac6dc-194c-4019-814e-54ff68fd5e0f" />
+
