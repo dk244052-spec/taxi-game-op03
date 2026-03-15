@@ -42,5 +42,5 @@
 
 
 
-# 🔀 БЛОК-СХЕМА АЛГОРИТМА
+# БЛОК-СХЕМА АЛГОРИТМА
 <img width="823" height="744" alt="image" src="https://github.com/user-attachments/assets/2d9ac6dc-194c-4019-814e-54ff68fd5e0f" />
