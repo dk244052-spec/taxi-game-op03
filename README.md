@@ -36,3 +36,7 @@
 - Логирование всех действий в отдельный файл
 - Выход из игры по клавише q
 
+
+USE CASE Диаграмма
+<img width="441" height="491" alt="use_case" src="https://github.com/user-attachments/assets/6ebe2469-6335-4b14-b515-e55a3fbc831d" />
+
